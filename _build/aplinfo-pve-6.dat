@@ -1,0 +1,13 @@
+
+Package: deepin
+Version: 20200823
+Type: lxc
+OS: debian
+Section: desktop
+Maintainer: Proxmox Support Team <support@proxmox.com>
+Architecture: amd64
+Location: lxcdeepin.tar.xz
+md5sum: 
+sha512sum: 
+Infopage: https://linuxcontainers.org
+Description: LXC default image for deepin

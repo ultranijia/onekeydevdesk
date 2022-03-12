@@ -1,0 +1,4 @@
+remote_theme: minlearn/cayman
+plugins:
+- jekyll-remote-theme
+#baseurl: "/onekeydevdesk"

@@ -1,4 +1,4 @@
-remote_theme: minlearn/cayman
+remote_theme: minlearn/webpy.github.com
 plugins:
 - jekyll-remote-theme
 #baseurl: "/onekeydevdesk"
